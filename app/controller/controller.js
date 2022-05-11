@@ -3,7 +3,7 @@ module.exports = {
 
         let response = {
             success: true,
-            message: "Hello World!!! how areyou "
+            message: "Hello World!!! how areyou i am fine"
         }
 
         res.status(200).send(response)
